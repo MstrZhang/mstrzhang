@@ -20,12 +20,6 @@
 
 - Python, Angular, Java, Postgres
 
-**outside of the office i am...**
-
-- a classical pianist 🎹 and lover of 🎵 music
-- a casual hiker 🥾 and amateur photographer 📸
-- in a love/hate relationship with league of legends 🎮
-
 **let's get in touch!**
 
 - [📧 Email](mailto:mstr.zhang@gmail.com)
