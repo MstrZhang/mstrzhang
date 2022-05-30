@@ -4,13 +4,13 @@
 
 **i am a...**
 
-- 🛍️ Frontend Developer @Shopify
-- 🎓 H.BSC in Computer Science @UofT
+- 🛍️ Frontend Developer [@Shopify](https://www.shopify.com/)
+- 🎓 H.BSC in Computer Science [@UofT](https://www.utoronto.ca/)
 
 **and previously...**
 
-- 🏡 Systems Integration Lead @MPAC
-- 🍎 Teaching Assistant @UTSC
+- 🏡 Systems Integration Lead [@MPAC](https://mpac.ca/)
+- 🍎 Teaching Assistant [@UTSC](https://www.utsc.utoronto.ca/home/)
 
 **i build things in...**
 
