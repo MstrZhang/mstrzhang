@@ -4,11 +4,12 @@
 
 **i am a...**
 
-- 🛍️ Frontend Developer [@Shopify](https://www.shopify.com/)
+- 📢 Full Stack Developer [@StackAdapt](https://www.stackadapt.com/)
 - 🎓 H.BSC in Computer Science [@UofT](https://www.utoronto.ca/)
 
 **and previously...**
 
+- 🛍️ Frontend Developer [@Shopify](https://www.shopify.com/)
 - 🏡 Systems Integration Lead [@MPAC](https://mpac.ca/)
 - 🍎 Teaching Assistant [@UTSC](https://www.utsc.utoronto.ca/home/)
 
