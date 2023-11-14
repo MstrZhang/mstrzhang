@@ -5,7 +5,7 @@
 **i am a...**
 
 - 📢 Full Stack Developer [@StackAdapt](https://www.stackadapt.com/)
-- 🎓 H.BSC in Computer Science [@UofT](https://www.utoronto.ca/)
+- 🎓 H.BSc in Computer Science [@UofT](https://www.utoronto.ca/)
 
 **and previously...**
 
