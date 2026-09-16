@@ -23,7 +23,6 @@
 
 **let's get in touch!**
 
-- [📧 Email](mailto:mstr.zhang@gmail.com)
 - [👔 LinkedIn](https://linkedin.com/in/mstrzhang)
 
 <!--
